@@ -1,0 +1,5 @@
+{
+  "name": "Real World RAG System",
+  "description": "An application demonstrating a Retrieval-Augmented Generation (RAG) pipeline. Users can select a domain and ask questions, and the system will retrieve relevant context to generate an accurate, source-based answer using the Gemini API.",
+  "requestFramePermissions": []
+}
